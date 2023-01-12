@@ -5,6 +5,7 @@ his is a simple Web application Weather
 ## Installation
 
 ```
+git clone https://github.com/nicod12/Weather-App.git
 npm i
 npm run dev
 ```
